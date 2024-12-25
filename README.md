@@ -54,3 +54,17 @@ Ensure the following tools are installed:
    ```bash
    git clone https://github.com/yourusername/premium-insurance-prediction.git
    cd premium-insurance-prediction
+
+2. **Set up a Virtual Environment**:
+   ```virtualenv env  
+    source env/bin/activate  # For Linux/Mac
+    env\Scripts\activate     # For Windows
+
+ 3. **Run the Application**:
+    ```python manage.py runserver
+    Open http://127.0.0.1:8000/ in your browser to access the app.
+  
+
+   
+
+   
